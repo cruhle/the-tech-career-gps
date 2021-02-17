@@ -1,2 +1,3 @@
-# the-tech-career-gps
-formação pela le_wagon, Lisboa
+# The Tech Career GPS
+
+Formação pela [Le Wagon, Lisboa](https://www.lewagon.com/)
