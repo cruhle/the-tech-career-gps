@@ -1,6 +1,6 @@
 
 body {
- background-image: url("../images/german_eagle_bw.png");
+ background-image: url("../images/doh3mlZ.jpg");
  background-repeat: no-repeat;
  background-position: center center;
  background-attachment: fixed;
@@ -8,14 +8,15 @@ body {
 
 .titulo {
 	text-align:center;
-	color: #c0c0c0;
+	color: #ffffff;
 	font-size: 50px;
 	font-family: verdana;
 	padding-top:5px;
 }
 
 .titulo:hover {
-	color:#000000;
+	font-weight:bold;
+	text-decoration:underline;
 }
 p {
 	text-align: center;
@@ -29,19 +30,20 @@ p.red {
 .list {
   list-style: none;
   text-align: center;
+  color: black;
+  font-size: 25px;
+}
+
+.list a {
+  color: white;
 }
 
 .list li {
   display: inline;
 }
 
-.list {
-  color: black;
-  font-size: 25px;
-}
-
-.list a {
-  color: black;
+.list a:hover {
+	color:black;
 }
 
 footer {
