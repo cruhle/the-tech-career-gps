@@ -40,6 +40,10 @@ p.red {
   font-size: 25px;
 }
 
+.list a {
+  color: black;
+}
+
 footer {
 	position: absolute;
     left: 0;
